@@ -58,6 +58,7 @@ A aplicação fornece uma interface intuitiva onde é possível:
 * [CURSO DE JAVASCRIPT](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 * [CURSO DE JQUERY](https://github.com/VILHALVA/CURSO-DE-JQUERY)
 * [CURSO DE BOOTSTRAP](https://github.com/VILHALVA/CURSO-DE-BOOTSTRAP)
+* [CURSO DE DATATABLES](https://github.com/VILHALVA/CURSO-DE-DATATABLES)
 * [CURSO DE MYSQL](https://github.com/VILHALVA/CURSO-DE-MYSQL)
 * [CURSO DE PHP COM MYSQL](https://github.com/VILHALVA/CURSO-DE-PHP-COM-MYSQL)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
