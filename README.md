@@ -37,14 +37,14 @@ A aplicação fornece uma interface intuitiva onde é possível:
 
 3. **Executando o Aplicativo com Apache:**
    - Coloque os arquivos em um servidor web compatível com PHP (por exemplo, XAMPP, WAMP, LAMP).
-   - Acesse o formulário no navegador visitando [http://localhost/CODIGO/HTML%20-%20PHP/FORMULARIO.html](http://localhost/CODIGO/HTML%20-%20PHP/FORMULARIO.html).
+   - Acesse o formulário no navegador visitando [http://localhost/CODIGO/index.html](http://localhost/CODIGO/index.html).
 
 4. **Executando o Aplicativo com `php.exe`:**
    - Alternativamente, você pode iniciar o servidor diretamente no diretório `./CODIGO` com o comando abaixo:
    ```bash
    php -S localhost:8080
    ```
-   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080/HTML%20-%20PHP/FORMULARIO.html](http://localhost:8080/HTML%20-%20PHP/FORMULARIO.html).
+   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080](http://localhost:8080).
 
 5. **Use a interface para gerenciar os registros:**
    - Clique em `NOVO`, e coloque o `NOME`, `PAIS` e `IDADE` para criar um novo registro.
